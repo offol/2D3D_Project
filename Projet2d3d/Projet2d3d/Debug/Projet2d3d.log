@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Projet2d3d.cpp
+c:\users\françois-xavier\source\repos\projet2d3d\projet2d3d\projet2d3d.cpp(77): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+  Projet2d3d.vcxproj -> C:\Users\François-Xavier\source\repos\Projet2d3d\Debug\Projet2d3d.exe
